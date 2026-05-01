@@ -25,7 +25,7 @@ Verify once. Works everywhere.
 ## Using the API 🔌
 
 ```
-Base URL: https://api.verifyblox.xyz/api
+Base URL: https://verifyblox.xyz/api
 Auth: Bearer <your-api-key>
 ```
 
